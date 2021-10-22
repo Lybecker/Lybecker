@@ -10,6 +10,10 @@ I sometimes:
   - [Azure Usergroup Denmark (AZUG)](https://www.meetup.com/Azure-Usergroup-Denmark/)
   - The conference [MicroCPH](https://microcph.dk/). A yearly conference about microservices.
 
+Things that I am proud of my team and I have worked on:
+- [MagicAKS](https://github.com/magicaks/magicaks) - Opinionated cluster config for microservices on Azure (with the managed Kubernetes services AKS)
+- [Azure Trusted Research Environment](https://github.com/microsoft/AzureTRE/) - Solution accelerator for creating research workspaces with secure boundaries.
+
 Connect with me at:
 - [Twitter](https://twitter.com/lybecker)
 - [LinkedIn](https://www.linkedin.com/in/anderslybecker/)
