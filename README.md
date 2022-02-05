@@ -3,8 +3,8 @@
 I am **Anders Lybecker**. An engineering lead at Microsoft helping strategic important customers with their digital transformation journey to the cloud.
 
 I sometimes:
-- [Write blog posts](http://www.lybecker.com/blog/)
-- [Speak at conferences](http://www.lybecker.com/blog/speaking/)
+- [Write blog posts](http://www.lybecker.com/)
+- [Speak at conferences](http://www.lybecker.com/speaking/)
 - Co-founder and organizer at:
   - [Copenhagen .NET usergroup (CNUG)](https://www.meetup.com/Copenhagen-Net-User-Group/)
   - [Azure Usergroup Denmark (AZUG)](https://www.meetup.com/Azure-Usergroup-Denmark/)
